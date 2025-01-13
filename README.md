@@ -43,3 +43,21 @@ Focus on 3-4 key metrics
 Use pre-built Dash components
 Implement basic interactive filters
 Keep statistical analysis focused and clear
+
+Focus: Retail/E-commerce Sales Analysis
+
+Data Storage & Processing:
+Load data into SQL from Databricks (or just leave databricks out?)
+Transform using Spark DataFrame operations
+Analysis:
+R (dplyr, ggplot, etc)
+Time series analysis of sales patterns
+Customer segmentation
+Product performance metrics
+Basic statistical tests (t-tests, ANOVA)
+Straight Line linear analysis for multiple inputs
+Visualization (Shiny or Dash):
+Interactive sales dashboard
+Geographic sales distribution
+Product category performance
+Seasonal trends
